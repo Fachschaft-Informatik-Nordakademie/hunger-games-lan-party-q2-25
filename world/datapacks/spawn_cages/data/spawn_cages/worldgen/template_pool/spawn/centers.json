@@ -1,0 +1,15 @@
+{
+  "name": "spawn_cages:spawn/centers",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+          "location": "spawn_cages:spawn/centers/center_hunger_games",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
